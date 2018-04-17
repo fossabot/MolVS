@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmcs07%2FMolVS.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmcs07%2FMolVS?ref=badge_shield)
+
 MolVS: Molecule Validation and Standardization
 ==============================================
 
@@ -74,3 +76,6 @@ There are a number of projects with similar goals that take differing approaches
 .. _`Tripod Structure standardizer`: https://tripod.nih.gov/?p=61
 .. _`FDA Substance Registration System Standard Operating Procedure`: http://www.fda.gov/downloads/ForIndustry/DataStandards/SubstanceRegistrationSystem-UniqueIngredientIdentifierUNII/ucm127743.pdf
 .. _`ChemAxon Structure Standardizer`: http://www.chemaxon.com/products/standardizer/
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmcs07%2FMolVS.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmcs07%2FMolVS?ref=badge_large)
